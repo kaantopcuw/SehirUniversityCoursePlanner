@@ -9,10 +9,10 @@
 ## Screenshots
 
 #### Blank page
-![Blank](/s1.gif) 
+![Blank](/s1.png) 
 
 #### After fetch courses and adding a few courses
-![Blank](/s2.gif) 
+![After](/s2.png) 
 
 #### Collision detection example
-![Blank](/s3.gif) 
+![Collision](/s3.png) 
